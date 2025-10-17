@@ -6,6 +6,22 @@
     <description>Recent content on Andrei</description>
     <generator>Hugo -- 0.148.0</generator>
     <language>en-us</language>
+    <lastBuildDate>Sun, 12 Jan 2025 12:47:44 +0000</lastBuildDate>
     <atom:link href="https://musical-fishstick-rvj9jqjqg6q3r6x-1313.app.github.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://musical-fishstick-rvj9jqjqg6q3r6x-1313.app.github.dev/posts/my-first-post/</link>
+      <pubDate>Sun, 12 Jan 2025 12:47:44 +0000</pubDate>
+      <guid>https://musical-fishstick-rvj9jqjqg6q3r6x-1313.app.github.dev/posts/my-first-post/</guid>
+      <description>&lt;h2 id=&#34;hello-world&#34;&gt;Hello, World!&lt;/h2&gt;
+&lt;p&gt;This is my first blog post on my new Hugo site. I built this at OmniOpenCon! During the workshop I learned:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;How static site generators work&lt;/li&gt;
+&lt;li&gt;How to use Hugo&lt;/li&gt;
+&lt;li&gt;How to deploy with GitHub Pages&lt;/li&gt;
+&lt;li&gt;How to automate everything with GitHub Actions&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Stay tuned for more posts!&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

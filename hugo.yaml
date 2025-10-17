@@ -14,6 +14,10 @@ params:
 
   profileMode:
     enabled: true
-    title: Your Name
+    title: Pop Andrei
     subtitle: Welcome to my blog!
     imageUrl: https://avatars.githubusercontent.com/u/95376996?v=4&size=64
+    buttons:
+      - name: Posts
+        url: "posts"
+
